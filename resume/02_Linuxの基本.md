@@ -116,6 +116,29 @@ $ vi [ファイル名 ...］
 
 多くのコマンドがあるので、より詳しく知りたい方は<a href="http://hp.vector.co.jp/authors/VA016670/unix/vi_reference.html" target="_blank">このサイト</a>などを参照してください。
 
+### touch コマンド
+空のファイルを作成できる
+
+```bash
+$ touch hoge.txt
+$ ls
+hoge.txt
+```
+
+### mv コマンド
+ファイルを別のディレクトリへ移動する
+
+```bash
+$ mv hoge.txt hoge/
+```
+
+### rm コマンド
+ファイルを削除する
+
+```bash
+$ rm hoge.txt
+```
+
 ## その他便利な使い方
 - パスを入力中、`tab`を押すと予測してくれる
 - `control + a`で最初にカーソルが戻る
