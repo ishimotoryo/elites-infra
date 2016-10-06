@@ -116,7 +116,7 @@ $ vi [ファイル名 ...］
 
 多くのコマンドがあるので、より詳しく知りたい方は<a href="http://hp.vector.co.jp/authors/VA016670/unix/vi_reference.html" target="_blank">このサイト</a>などを参照してください。
 
-### touch コマンド
+## touch コマンド
 空のファイルを作成できる
 
 ```bash
@@ -125,14 +125,14 @@ $ ls
 hoge.txt
 ```
 
-### mv コマンド
+## mv コマンド
 ファイルを別のディレクトリへ移動する
 
 ```bash
 $ mv hoge.txt hoge/
 ```
 
-### rm コマンド
+## rm コマンド
 ファイルを削除する
 
 ```bash
