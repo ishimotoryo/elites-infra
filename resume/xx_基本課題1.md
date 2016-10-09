@@ -12,7 +12,8 @@
 4） 3)で作っファイルを `copy2.txt` へコピーしてください<br>
 <br>
 
-5) 4)で作った `copy1.txt` と `copy2.txt` を `tar` コマンドを用いて `copy.tar.gz` にtar圧縮してください
+5)　　4)で作った `copy1.txt` と `copy2.txt` を `tar` コマンドを用いて `copy.tar.gz` にtar圧縮してください
 <br>
 
-:bulb:ヒント<br>
+6)　　`copy1.txt` と `copy2.txt` を `tar` コマンドを用いて `copy.tar.gz` にtar圧縮してください
+<br>
