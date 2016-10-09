@@ -1,19 +1,13 @@
 ## xx_基本課題（編集中！）
 
 1）適当な場所に `fruits.txt` と `foods.txt` を作成し、それぞれ自分の好きなくだものと食べ物を一つ書き込んでください。<br>
-<br>
 
 2） 1)で作った二つのファイルを `gzip` コマンドを用いて1ファイルに圧縮してください<br>
-<br>
 
 3） 適当な場所に `touch` コマンドを用いて、空の `copy1.txt` というファイルを作成してください <br>
-<br>
 
 4） 3)で作っファイルを `copy2.txt` へコピーしてください<br>
-<br>
 
 5)　4)で作った `copy1.txt` と `copy2.txt` を `tar` コマンドを用いて `copy.tar.gz` にtar圧縮してください
-<br>
 
-6)　`copy1.txt` と `copy2.txt` を `tar` コマンドを用いて `copy.tar.gz` にtar圧縮してください
-<br>
+6)　`copy1.txt` と `copy2.txt` を `tar` コマンドを用いて `copy.tar.gz` にtar圧縮してください<br>
