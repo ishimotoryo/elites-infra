@@ -193,7 +193,9 @@ $ rm hoge.txt
 
 5) `cp` コマンドにオプションをつけて、ファイルの所有者・パーミッションを維持したまま `test1.txt` を `test2.txt` にコピーしてください。
 
-6) `mv` コマンドを使って、`test1.txt` を `test1/test2/test3/` ディレクトリへ移動してください
+6) `mv` コマンドを使って、`test1.txt` と `test2.txt` を `test1/test2/test3/` ディレクトリへ移動してください
+
+7) `rm` コマンドにオプションをつけて `test1/test2/test3/` 内のデータをすべて消してください
 
 ## 答え
 1) `ls -l`
@@ -206,4 +208,6 @@ $ rm hoge.txt
 
 5) `cp -p test1.txt test2.txt`
 
-6) `mv test1.txt test1/test2/test3/`
+6) `mv test1.txt test2.txt test1/test2/test3/`
+
+7) `rm -rf test1/test2/test3/*`
