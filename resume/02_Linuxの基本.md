@@ -193,6 +193,8 @@ $ rm hoge.txt
 
 5) `cp` コマンドにオプションをつけて、ファイルの所有者・パーミッションを維持したまま `test1.txt` を `test2.txt` にコピーしてください。
 
+6) `mv` コマンドを使って、`test1.txt` を `test1/test2/test3/` ディレクトリへ移動してください
+
 ## 答え
 1) `ls -l`
 
@@ -203,3 +205,5 @@ $ rm hoge.txt
 4) `touch test1.txt`
 
 5) `cp -p test1.txt test2.txt`
+
+6) `mv test1.txt test1/test2/test3/`
