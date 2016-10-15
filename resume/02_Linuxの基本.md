@@ -197,6 +197,8 @@ $ rm hoge.txt
 
 7) `rm` コマンドにオプションをつけて `test1/test2/test3/` 内のデータをすべて消してください
 
+8) `vi` コマンドで `fruits.txt` の中に好きな果物をひとつ書いて保存してください
+
 ## 答え
 1) `ls -l`
 
@@ -211,3 +213,5 @@ $ rm hoge.txt
 6) `mv test1.txt test2.txt test1/test2/test3/`
 
 7) `rm -rf test1/test2/test3/*`
+
+8) `vi fruits.txt` `（内容例） orange`
