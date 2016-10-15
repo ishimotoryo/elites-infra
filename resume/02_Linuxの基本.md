@@ -189,4 +189,13 @@ $ rm hoge.txt
 
 3）`mkdir` コマンドにオプションをつけて、今自分がいるディレクトリに `test1/test2/test3` ディレクトリを作ってみましょう。
 
-4)
+4)`cp` コマンドにオプションをつけて、ファイルの所有者・パーミッションを維持したまま `test1.txt` を `test2.txt` にコピーしてください。
+
+## 確認問題の答え
+1）`ls -l`
+
+2)`cd ~`
+
+3)`mkdir -p test1/test2/test3`
+
+4)`cp -p test1.txt test2.txt`
