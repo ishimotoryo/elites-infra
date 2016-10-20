@@ -200,18 +200,18 @@ $ rm hoge.txt
 8) `vi` コマンドで `fruits.txt` の中に好きな果物をひとつ書いて保存してください
 
 ## 答え
-1) `ls -l`
+1) `$ ls -l`
 
-2) `cd ~`
+2) `$ cd ~`
 
-3) `mkdir -p test1/test2/test3`
+3) `$ mkdir -p test1/test2/test3`
 
-4) `touch test1.txt`
+4) `$ touch test1.txt`
 
-5) `cp -p test1.txt test2.txt`
+5) `$ cp -p test1.txt test2.txt`
 
-6) `mv test1.txt test2.txt test1/test2/test3/`
+6) `$ mv test1.txt test2.txt test1/test2/test3/`
 
-7) `rm -rf test1/test2/test3/*`
+7) `$ rm -rf test1/test2/test3/*`
 
-8) `vi fruits.txt` `（内容例） orange`
+8) `$ vi fruits.txt` `（内容例） orange`
